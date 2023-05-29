@@ -67,7 +67,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Gerardo Roa Dabike
+  name: Ignacio Perez-Sepulveda
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -78,13 +78,13 @@ social-network-links:
 
   #facebook: yourname  # eg. daattali
 
-  github: groadabike    # eg. daattali
+  github: ignacioperez-sepulveda    # eg. daattali
 
   #twitter:   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: 104297178849702862816   # eg. +DeanAttali or 109424658772469020925
 
-  linkedin: gerardo-roa-dabike/  # eg. daattali
+  linkedin: gnacio-perez-sepulveda-359274105/  # eg. daattali
 
   #xing: yourname      # eg. daattali
   #pinterest:  # eg.
