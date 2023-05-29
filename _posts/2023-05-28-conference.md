@@ -3,7 +3,7 @@ layout: post
 title: Conference Name 2023
 subtitle: My presentations
 image: 
-bigimg: img/penguin.jpg
+bigimg: /img/penguin.jpg
 tags: 
 ---
 
