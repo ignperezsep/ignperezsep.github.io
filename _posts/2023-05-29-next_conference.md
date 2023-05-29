@@ -2,7 +2,7 @@
 layout: post
 title: Conference Name 2023 
 subtitle: See you in Boston
-image:  /img/penguin.jpg
+image:  
 bigimg: /img/penguin.jpg
 tags: 
 ---
