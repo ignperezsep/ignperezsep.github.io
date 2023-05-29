@@ -1,9 +1,9 @@
 ---
 layout: post
-title: <Conference Name> 2023
+title: Conference Name 2023
 subtitle: My presentations
 image: 
-bigimg: g
+bigimg: 
 tags: 
 ---
 
