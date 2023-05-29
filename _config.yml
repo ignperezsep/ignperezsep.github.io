@@ -1,0 +1,254 @@
+# --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://www.gerardoroadabike.com" # http://groadabike.github.io"
+baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
+title: Gerardo Roa Dabike
+
+# Short description of your site
+description: Gerardo's personal web page
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  Publications: "publications.html"
+  About Me: "aboutme.html"
+  Contact: "contact.html"
+ # Resources:
+ #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+ #   - Learn markdown: "http://www.markdowntutorial.com/"
+ #   - GitHub Pages: "https://pages.github.com/"
+ # Author's home: "http://deanattali.com"
+
+Tags: "tags"
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar/avatar_201909.JPG" # "/img/avatar-icon.png"
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+# title-img: "/img/avatar/DSC_3979.JPG"
+
+# --- Background colour/image options --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#F5F5F5"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
+
+# navbar-img: "/img/pinguino_rey.jpg"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/pinguino_rey.jpg"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Gerardo Roa Dabike
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+
+social-network-links:
+
+  #facebook: yourname  # eg. daattali
+
+  github: groadabike    # eg. daattali
+
+  #twitter:   # eg. daattali
+  #reddit: yourname    # eg. daattali
+  #google-plus: 104297178849702862816   # eg. +DeanAttali or 109424658772469020925
+
+  linkedin: gerardo-roa-dabike/  # eg. daattali
+
+  #xing: yourname      # eg. daattali
+  #pinterest:  # eg.
+
+  #stackoverflow: # eg. "3943160/daattali"
+
+  #snapchat: yourname  # eg. daattali
+  #instagram: yourname # eg. daattali
+  #youtube: user/groad   # eg. user/daattali or channel/daattali
+  #spotify: yourname   # eg. daattali
+
+  #email:
+
+  #telephone: (+44) 114 22 21800   # eg. +14159998888
+
+# Select which links to show in the footer
+footer-links-active:
+  email: true
+#  telephone: true
+#  rss: false
+#  facebook: false
+#  twitter: false
+#  google-plus: false
+  github: true
+#  reddit: false
+  linkedin: true
+#  xing: false
+#  pinterest: false
+#  stackoverflow: true
+#  snapchat: false
+#  instagram: false
+#  youtube: false
+#  spotify: false
+
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+
+# --- Misc --- #
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "groadabike"
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-147976832-1"
+
+# Google Tag Manager ID
+#gtm: ""
+
+# Facebook App ID
+# fb_app_id: ""
+
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "Europe/London"
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title.html  #/:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
+link-tags: false
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Vagrantfile
+
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
