@@ -4,7 +4,7 @@ title: Contact
 subtitle: 
 ---
 ![](/img/icon/mail-icon.png)  
-ieperezsepulveda1 (at) sheffield (dot) ac (dot) uk
+ieperezsepulveda1@sheffield.ac.uk
 
 ![](/img/icon/location-icon.png)  
 Institute of Work Psychology
