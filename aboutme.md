@@ -14,14 +14,14 @@ Finally, during my professional career, I have also specialised in the use of qu
 ## Education
 - PhD(c) in Management
   2020-2024   
-  Management School, The University of Sheffield, UK
+  Management School, The University of Sheffield, United Kingdom
 
 - Masters degree in Work and Organisational Psychology
   2015-2016
-  Pontificia Universidad Católica de Chile
+  Pontificia Universidad Católica de Chile, Chile
 
 - Bachelors degree in Psychology
   2011-2015
-  Pontificia Universidad Católica de Chile
+  Pontificia Universidad Católica de Chile, Chile
 
   
