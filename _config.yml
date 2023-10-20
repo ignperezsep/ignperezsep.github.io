@@ -78,13 +78,13 @@ social-network-links:
 
   #facebook: yourname  # eg. daattali
 
-  github: ignacioperez-sepulveda    # eg. daattali
+  github: ignperezsep    # eg. daattali
 
   #twitter:   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: 104297178849702862816   # eg. +DeanAttali or 109424658772469020925
 
-  linkedin: ignacio-perez-sepulveda-359274105/  # eg. daattali
+  linkedin: ignperezsep/  # eg. daattali
 
   #xing: yourname      # eg. daattali
   #pinterest:  # eg.
@@ -123,7 +123,7 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
