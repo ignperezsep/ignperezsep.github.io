@@ -16,11 +16,11 @@ Finally, during my professional career, I have also specialised in the use of qu
   2020-2024   
   Management School, The University of Sheffield, United Kingdom
 
-- Masters degree in Work and Organisational Psychology
+- BSc in Work and Organisational Psychology
   2015-2016
   Pontificia Universidad Católica de Chile, Chile
 
-- Bachelors degree in Psychology
+- BSc in Psychology
   2011-2015
   Pontificia Universidad Católica de Chile, Chile
 
