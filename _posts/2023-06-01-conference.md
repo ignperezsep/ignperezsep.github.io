@@ -7,7 +7,7 @@ bigimg: /img/penguin.jpg
 tags: 
 ---
 
-Last week, we I attended to the **2023 European Association of Work and Organizational Psychology Conference**.
+Last week, I attended to the **2023 European Association of Work and Organizational Psychology Conference**.
 This was my first face to face conference! It was a very nice experience where I met lot of nice people like Prof. David Hughes, Prof. 
 
 In this occation, I pressented two :
