@@ -12,16 +12,16 @@ I am passionate about helping people and organisations to create positive work e
 Finally, during my professional career, I have also specialised in the use of quantitative research methodologies - specifically, in the use of various statistical analyses, such as exploratory and confirmatory factorial analyses; inter-rater agreement analyses; moderation, and mediation models; structural equation models; among others.
 
 ## Education
-- PhD(c) in Management
+- **PhD(c) in Management**
   2020-2024   
   Management School, The University of Sheffield, United Kingdom
 
-- MSc in Work and Organisational Psychology
-  2015-2016
-  Pontificia Universidad Católica de Chile, Chile
+- **MSc in Work and Organisational Psychology**  
+  2015-2016  
+  Pontificia Universidad Católica de Chile, Chile  
 
-- BSc in Psychology
-  2011-2015
-  Pontificia Universidad Católica de Chile, Chile
+- **BSc in Psychology**  
+  2011-2015  
+  Pontificia Universidad Católica de Chile, Chile  
 
   
