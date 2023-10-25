@@ -16,7 +16,7 @@ Finally, during my professional career, I have also specialised in the use of qu
   2020-2024   
   Management School, The University of Sheffield, United Kingdom
 
-- BSc in Work and Organisational Psychology
+- MSc in Work and Organisational Psychology
   2015-2016
   Pontificia Universidad Católica de Chile, Chile
 
