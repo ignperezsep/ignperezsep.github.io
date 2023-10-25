@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Academy of Management Annual Meeting 2023 
-subtitle: See you in Boston
+subtitle: Great time in Boston
 image:  
 bigimg: /img/penguin.jpg
 tags: 
 ---
 
-Last week, I will be travelling to Boston to attend the 2023 Annual Meeting of Academy of Management. 
-Here, I will present my work on "Teams' Media Capabilities: An Alternative Approach to the Study of Team Virtuality".
+Last week, I travelled to Boston to attend the 2023 Annual Meeting of Academy of Management. 
+Here, I presented my work on "Teams' Media Capabilities: An Alternative Approach to the Study of Team Virtuality".
 
-I hope you find this work interesting.
-See you in Boston...
+I had a nice time in Boston and met great researchers in my area, like Prof. Sharon Hill, Prof. Sumita Raghuram, and Dr. Maria Ximena Hincapie.
