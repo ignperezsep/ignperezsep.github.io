@@ -3,7 +3,7 @@ layout: post
 title: Getting started
 subtitle: Why I'm doing this?
 image: 
-bigimg: /img/2017-05-21/path.jpg
+bigimg: /img/path.jpg
 tags: 
 ---
 
